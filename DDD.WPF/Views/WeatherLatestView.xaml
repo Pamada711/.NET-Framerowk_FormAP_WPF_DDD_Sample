@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="DDD.WPF.Views.WeatherLatestView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:prism="http://prismlibrary.com/"             
+             prism:ViewModelLocator.AutoWireViewModel="True">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="地域"
+                       FontSize="20"
+                       Width="200"/>
+                <ComboBox FontSize="20"
+                          Width="200"
+                          ItemsSource="{Binding Areas}"
+                          SelectedItem="{Binding SelectedArea}"
+                          SelectedValuePath="AreaId"
+                          DisplayMemberPath="AreaName"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="日時"
+                       FontSize="20"
+                       Width="200"/>
+                <Label Content="{Binding DataDateText}"
+                       FontSize="20"
+                       Width="200"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="状態"
+                       FontSize="20"
+                       Width="200"/>
+                <Label Content="{Binding ConditionText}"
+                       FontSize="20"
+                       Width="200"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="温度"
+                       FontSize="20"
+                       Width="200"/>
+                <Label Content="{Binding TemperatureText}"
+                       FontSize="20"
+                       Width="200"/>
+            </StackPanel>
+            <Button Content="直近値"
+                    FontSize="20"
+                    Margin="5"
+                    Command="{Binding LatestButton}"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

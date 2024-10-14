@@ -1,0 +1,12 @@
+C:\Users\anderson\Desktop\コンテンツ_20200408_WPFPrism\src\Udemy版\original\DDD\DDD.Domain\bin\Debug\DDD.Domain.dll
+C:\Users\anderson\Desktop\コンテンツ_20200408_WPFPrism\src\Udemy版\original\DDD\DDD.Domain\bin\Debug\DDD.Domain.pdb
+C:\Users\anderson\Desktop\コンテンツ_20200408_WPFPrism\src\Udemy版\original\DDD\DDD.Domain\obj\Debug\DDD.Domain.csprojAssemblyReference.cache
+C:\Users\anderson\Desktop\コンテンツ_20200408_WPFPrism\src\Udemy版\original\DDD\DDD.Domain\obj\Debug\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anderson\Desktop\コンテンツ_20200408_WPFPrism\src\Udemy版\original\DDD\DDD.Domain\obj\Debug\DDD.Domain.dll
+C:\Users\anderson\Desktop\コンテンツ_20200408_WPFPrism\src\Udemy版\original\DDD\DDD.Domain\obj\Debug\DDD.Domain.pdb
+C:\Users\anderson\Desktop\DDD_Fix版\DDD\DDD.Domain\bin\Debug\DDD.Domain.dll
+C:\Users\anderson\Desktop\DDD_Fix版\DDD\DDD.Domain\bin\Debug\DDD.Domain.pdb
+C:\Users\anderson\Desktop\DDD_Fix版\DDD\DDD.Domain\obj\Debug\DDD.Domain.csprojAssemblyReference.cache
+C:\Users\anderson\Desktop\DDD_Fix版\DDD\DDD.Domain\obj\Debug\DDD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anderson\Desktop\DDD_Fix版\DDD\DDD.Domain\obj\Debug\DDD.Domain.dll
+C:\Users\anderson\Desktop\DDD_Fix版\DDD\DDD.Domain\obj\Debug\DDD.Domain.pdb
